@@ -1,0 +1,8 @@
+@def BG_COLOR		rgba(0,0,0,0.3);
+
+body {
+	color: #000;
+	font-weight: 500;
+	background: BG_COLOR;
+
+}
