@@ -1,5 +1,6 @@
 @def BG_COLOR		rgba(0,0,0,0.3);
 
+@def FONT_BOLD		500;
 body {
 	color: #000;
 	font-weight: 500;
